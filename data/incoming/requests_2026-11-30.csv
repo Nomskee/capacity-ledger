@@ -1,0 +1,13 @@
+week_start,request_type,channel,volume
+2026-11-30,patient,digital,2473
+2026-11-30,patient,fax,1063
+2026-11-30,patient,mail,455
+2026-11-30,legal,digital,995
+2026-11-30,legal,fax,404
+2026-11-30,legal,mail,173
+2026-11-30,insurer,digital,703
+2026-11-30,insurer,fax,291
+2026-11-30,insurer,mail,125
+2026-11-30,payer,digital,2146
+2026-11-30,payer,fax,951
+2026-11-30,payer,mail,408

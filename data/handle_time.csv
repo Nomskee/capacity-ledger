@@ -1,0 +1,13 @@
+request_type,channel,team,minutes
+patient,digital,Patient Requests,8
+patient,fax,Patient Requests,15
+patient,mail,Patient Requests,18
+legal,digital,Legal & Insurance,18
+legal,fax,Legal & Insurance,28
+legal,mail,Legal & Insurance,32
+insurer,digital,Legal & Insurance,14
+insurer,fax,Legal & Insurance,22
+insurer,mail,Legal & Insurance,26
+payer,digital,Payer Requests,6
+payer,fax,Payer Requests,12
+payer,mail,Payer Requests,14

@@ -1,0 +1,10 @@
+name,value,low,high,owner,source,review_date
+paid_hours_per_week,37.5,37.5,37.5,HR,Employment policy,2027-01-15
+shrinkage,0.22,0.18,0.26,WFM / HR,Attendance and training records,2027-01-15
+attrition_monthly,0.02,0.015,0.03,HR,Trailing 12-month exits,2027-01-15
+hourly_cost,30.0,26.0,34.0,Finance,Placeholder loaded labor rate,2027-01-15
+overtime_premium,1.5,1.5,1.5,Finance,Overtime policy,2027-01-15
+ramp_weeks_1_4,0.25,0.2,0.35,Training,New-hire cohort results,2027-01-15
+ramp_weeks_5_8,0.5,0.4,0.6,Training,New-hire cohort results,2027-01-15
+ramp_weeks_9_12,0.75,0.65,0.85,Training,New-hire cohort results,2027-01-15
+time_to_hire_weeks,4.0,3.0,8.0,Talent Acquisition,Requisition history,2027-01-15
